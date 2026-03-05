@@ -16,8 +16,8 @@
     "validate:manifest": "bun run scripts/validate-manifest.ts"
   },
   "dependencies": {
-    "@awstral-cms/bridge": "workspace:*",
-    "@awstral-cms/shared": "workspace:*"
+    "@awstral-cms/bridge": "0.0.2",
+    "@awstral-cms/shared": "0.0.2"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.2.1",
